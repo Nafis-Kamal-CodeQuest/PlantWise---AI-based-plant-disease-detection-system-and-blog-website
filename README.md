@@ -81,5 +81,3 @@ python manage.py migrate
 ## Start Deployment Server
 python manage.py runserver
 
-
-## 📂 Project Structure
