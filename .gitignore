@@ -2,17 +2,13 @@
 __pycache__/
 *.pyc
 
+# Virtual environment
+venv/
+.env
+
 # Django
 db.sqlite3
 media/
-staticfiles/
-
-# Virtual environment
-venv/
-env/
 
 # VS Code
 .vscode/
-
-# Environment variables
-.env
