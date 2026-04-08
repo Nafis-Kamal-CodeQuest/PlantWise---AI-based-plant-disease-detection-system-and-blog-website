@@ -63,3 +63,4 @@ def post_delete(request, id):
         return redirect("blog:blog_list")
 
     return render(request, "blog/post_confirm_delete.html", {"post": post})
+
